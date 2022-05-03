@@ -11,9 +11,9 @@
 - [SDK de computadora de Internet] (https://sdk.dfinity.org)
 - [Node.js](https://nodejs.org)
 - [Python](https://www.python.org)
-- [Embarcación@0.6.0](https://github.com/dfinity/vessel/releases/tag/v0.6.0)
+- [vessel@0.6.0](https://github.com/dfinity/vessel/releases/tag/v0.6.0)
 
-Si aún no tiene una embarcación, puede instalarla ejecutando un script de instalación incluido en el proyecto:
+Si aún no tiene una vessel, puede instalarla ejecutando un script de instalación incluido en el proyecto:
 
 ```shell
 $ ./scripts/vessel-install.sh
@@ -24,7 +24,7 @@ Vuelva a verificar que tiene [vessel](https://github.com/dfinity/vessel) instala
 
 
 ```shell
-$ embarcación --versión
+$ vessel --versión
 # buque 0.6.0
 
 $ git clone git@github.com:dfinity/cancan.git
@@ -144,9 +144,9 @@ Clone and setup [the project](https://github.com/dfinity/internet-identity) and 
 - [SDK de computadora de Internet] (https://sdk.dfinity.org)
 - [Node.js](https://nodejs.org)
 - [Python](https://www.python.org)
-- [Embarcación@0.6.0](https://github.com/dfinity/vessel/releases/tag/v0.6.0)
+- [vessel@0.6.0](https://github.com/dfinity/vessel/releases/tag/v0.6.0)
 
-Si aún no tiene una embarcación, puede instalarla ejecutando un script de instalación incluido en el proyecto:
+Si aún no tiene una vessel, puede instalarla ejecutando un script de instalación incluido en el proyecto:
 
 ```shell
 $ ./scripts/vessel-install.sh
@@ -157,7 +157,7 @@ Vuelva a verificar que tiene [vessel](https://github.com/dfinity/vessel) instala
 
 
 ```shell
-$ embarcación --versión
+$ vessel --versión
 # buque 0.6.0
 
 $ git clone git@github.com:dfinity/cancan.git
